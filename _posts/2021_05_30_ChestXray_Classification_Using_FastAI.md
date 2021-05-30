@@ -10,3 +10,9 @@ This project an example of using fast.ai with 2D medical imaging data. So I will
 You will be provided with the medical images with clinical labels for each image that were extracted from their accompanying radiology reports.
 The project will include access to a GPU for fast training of deep learning architecture, as well as access to 112,000 chest x-rays with disease labels acquired from 30,000 patients.
 
+## Project Steps
+This project has the following steps.
+1.	Exploratory Data Analysis
+2.	Building and Training Your Model
+3.	Clinical Workflow Integration
+
