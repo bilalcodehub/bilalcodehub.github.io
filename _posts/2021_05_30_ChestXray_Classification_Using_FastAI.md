@@ -1,5 +1,5 @@
 
-# 2D Medical Imaging Analysis using fast.ai
+# Pneumonia Detection from Chest X-Rays using Fast AI
 
 Firstly, my sincere gratitude to **Jeremy Howard** for authoring fast.ai which is an incredible software for democratising deep learning to solve problems of your own interest.
 
